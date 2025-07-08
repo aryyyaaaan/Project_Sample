@@ -1,0 +1,34 @@
+[
+  {
+    "type": "physical",
+    "product_id": "P001",
+    "name": "Wireless Mouse",
+    "price": 499.0,
+    "quantity_available": 10,
+    "weight": 0.2
+  },
+  {
+    "type": "physical",
+    "product_id": "P002",
+    "name": "Bluetooth Headphones",
+    "price": 1499.0,
+    "quantity_available": 5,
+    "weight": 0.4
+  },
+  {
+    "type": "digital",
+    "product_id": "D001",
+    "name": "E-book: Python Basics",
+    "price": 199.0,
+    "quantity_available": 100,
+    "download_link": "http://example.com/ebook/python-basics"
+  },
+  {
+    "type": "digital",
+    "product_id": "D002",
+    "name": "Online Course: Data Science",
+    "price": 2999.0,
+    "quantity_available": 50,
+    "download_link": "http://example.com/course/data-science"
+  }
+]
